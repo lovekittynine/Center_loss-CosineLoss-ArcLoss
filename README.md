@@ -4,7 +4,7 @@ mnist classify using center loss
 # mnist classify using only softmax loss
 # 20 epochs test Accuracy=0.990
 # feature display
-
+![image](https://github.com/lovekittynine/Center_loss/blob/master/images/19.png)
 # mnist classify using softmax loss + center loss
 # 20 epochs test Accuracy=0.995
 # feature display
