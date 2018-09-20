@@ -11,8 +11,10 @@ mnist classify using center loss
 ![image](https://github.com/lovekittynine/Center_loss/blob/master/center_loss_images/19.png)
 ## 可以看到不加center_loss的时候，类内距离非常大，由于类内距离分散大，导致类间距离也很小。而加入了center_loss后每个类的特征向中心收缩，所以类内距离减小，导致类间距离也相应变大，最后效果也更好。
 # CosineLoss
+# 20 epochs test Accuracy=0.994
 # feature display
 ![image](https://github.com/lovekittynine/Center_loss/blob/master/cosine_loss_images/16.png)
 # ArcLoss
+# 20 epochs test Accuracy=0.992
 # feature display
 ![image](https://github.com/lovekittynine/Center_loss/blob/master/angular_loss_images/19.png)
