@@ -15,3 +15,4 @@ mnist classify using center loss
 ![image](https://github.com/lovekittynine/Center_loss/blob/master/cosine_loss_images/16.png)
 # ArcLoss
 # feature display
+![image](https://github.com/lovekittynine/Center_loss/blob/master/angular_loss_images/19.png)
